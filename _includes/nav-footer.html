@@ -1,22 +1,7 @@
 {% if site.navigation_footer %}
 <nav class="nav  nav--footer">
   <ul class="list list--nav">
-    {% for item in site.navigation_footer %}
-
-      {% if item.url contains '://' %}
-        {% assign url = item.url %}
-      {% else %}
-        {% assign url = item.url | relative_url %}
-      {% endif %}
-
-      <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}">{{ item.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-  <div class="container">
-
-        {% if site.navigation_footer %}
+    {% if site.navigation_footer %}
         <div class="columns is-multiline">
             {% for item in site.navigation_footer %}
             <div class="column has-text-centered">
@@ -28,13 +13,22 @@
         </div>
         {% endif %}
 
-        <br/>
-
         <ul class="footerLogos" style="display: flex; align-items: center; justify-content: center;">
           <li><img src="/assets/logos/cbhlab_logo.png" width="300" hspace="50"></li>
-          <li><img src="/assets/logos/sri.png" width="300" hspace="50"></li>
-        </ul>
-    </div>
+          <li><img src="/assets/logos/sri.png" width="300" hspace="50"></li><!---{% for item in site.navigation_footer %}
+
+      {% if item.url contains '://' %}
+        {% assign url = item.url %}
+      {% else %}
+        {% assign url = item.url | relative_url %}
+      {% endif %}
+
+      <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
+        <a href="{{ url }}">{{ item.title }}</a>
+      </li>
+    {% endfor %} --->
+
+  </ul>
 </nav>
 {% else %}
   {% include nav-default.html %}
