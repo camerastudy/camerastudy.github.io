@@ -108,18 +108,18 @@ navigation_header:
 - title: Home
   url: /
 - title: About
-  url: /elements/
+  url: /docs/about/
 - title: Contact
-  url: /blog/
+  url: /docs/contact/
 - title: Join
-  url: /categories/
+  url: /docs/join/
 - title: News
-  url: /search/
+  url: /docs/news/
 - title: People
   url: /docs/people
 
 navigation_footer:
-- title: home
+- title: Home
   url: /
 - title: Contact
   url: mailto:cbhlab@sunnybrook.ca
