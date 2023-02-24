@@ -85,10 +85,11 @@ remote_theme: daviddarnes/alembic@main
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Alembic" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/camera_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Canadian Multi-Ethnic Research on Aging Study (CAMERA) from the Cognitive Brain Health Lab at the Sunnybrook Research Institute. CAMERA is a longitudinal study investigating risk and protective factors for dementia in individuals who identify as East Asian and South Asian, two of Canada's largest minority ethnic groups." # Site description and default description, also used in jekyll-seo-tag
 url: "https://cbhlab.github.io/camera-study" # Site url, also used in jekyll-seo-tag
 baseurl: "https://cbhlab.github.io"
+email: "cbhlab@sunnybrook.ca"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
@@ -106,32 +107,20 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
+- title: About
   url: /elements/
-- title: Blog
+- title: Join
   url: /blog/
-- title: Categories
+- title: People
   url: /categories/
-- title: Search
+- title: Contact
   url: /search/
-- title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-- title: Created by David Darnes
-  url: https://darn.es
-
-social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
-
-sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
-  facebook: "#3B5998"
-  Email: true
+- name: Home
+  link: /
+- name: Contact
+  link: mailto:cbhlab@sunnybrook.ca
 
 # Load custom fonts from fonts.google.com etc
 #
