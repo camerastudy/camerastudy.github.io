@@ -84,7 +84,7 @@ defaults:
 remote_theme: daviddarnes/alembic@main
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "Alembic" # Site name or title, also used in jekyll-seo-tag
+title: "CAMERA Study" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/camera_logo.png" # Site logo, also used in jekyll-seo-tag
 description: "Canadian Multi-Ethnic Research on Aging Study (CAMERA) from the Cognitive Brain Health Lab at the Sunnybrook Research Institute. CAMERA is a longitudinal study investigating risk and protective factors for dementia in individuals who identify as East Asian and South Asian, two of Canada's largest minority ethnic groups." # Site description and default description, also used in jekyll-seo-tag
 url: "https://cbhlab.github.io/camera-study" # Site url, also used in jekyll-seo-tag
@@ -109,18 +109,20 @@ navigation_header:
   url: /
 - title: About
   url: /elements/
-- title: Join
-  url: /blog/
-- title: People
-  url: /categories/
 - title: Contact
+  url: /blog/
+- title: Join
+  url: /categories/
+- title: News
   url: /search/
+- title: People
+  url: /docs/people
 
 navigation_footer:
-- name: Home
-  link: /
-- name: Contact
-  link: mailto:cbhlab@sunnybrook.ca
+- title: home
+  url: /
+- title: Contact
+  url: mailto:cbhlab@sunnybrook.ca
 
 # Load custom fonts from fonts.google.com etc
 #
