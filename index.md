@@ -9,13 +9,8 @@ excerpt: "CAMERA is a longitudinal study investigating risk and protective facto
 
 CAMERA is a longitudinal study investigating risk and protective factors for dementia in two of Canada's largest minority ethnic groups: individuals who identify as being of East Asian and South Asian descent. CAMERA is run by the [Cognitive Brain Health Lab](https://cbhlab.github.io) at the [Sunnybrook Research Insitute](https://sunnybrook.ca/research/) in Toronto, Ontario. 
 
-<br/><br/>
-
-For more information about the study, please [click here](/docs/about)
-
-<br/>
-
-If you are interested in participating in the study, please visit the [participate](/docs/participate) page.
+For more information about the study, please [click here](/docs/about.md)
+If you are interested in participating in the study, please visit the [participate](/docs/participate.md) page.
 
 <!--- Comment out button links --->
 <!--- {% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %} --->

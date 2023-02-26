@@ -110,9 +110,9 @@ navigation_header:
 - title: About
   url: /docs/about.md/
 - title: Contact
-  url: /docs/contact/
+  url: /docs/contact.md/
 - title: Participate
-  url: /docs/participate/
+  url: /docs/participate.md/
 #- title: News
 #  url: /docs/news/
 #- title: People
