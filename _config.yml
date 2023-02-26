@@ -119,7 +119,7 @@ navigation_header:
 #  url: /docs/people
 
 navigation_footer:
-- title: CHB Lab
+- title: Cognitive Brain Health Lab
   url: https://cbhlab.github.io
 
 # Load custom fonts from fonts.google.com etc
