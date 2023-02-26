@@ -108,7 +108,7 @@ navigation_header:
 - title: Home
   url: /
 - title: About
-  url: /docs/about/
+  url: /docs/about.md/
 - title: Contact
   url: /docs/contact/
 - title: Participate
