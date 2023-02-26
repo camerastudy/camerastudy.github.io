@@ -108,9 +108,9 @@ navigation_header:
 - title: Home
   url: /
 - title: About
-  url: /docs/about.md/
+  url: /camera-study/docs/about.md/
 - title: Contact
-  url: /docs/contact.md/
+  url: /camera-study/docs/contact.md/
 - title: Participate
   url: /docs/participate.md/
 #- title: News
