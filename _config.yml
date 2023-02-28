@@ -87,8 +87,8 @@ lang: en-GB # Set the site language
 title: "CAMERA Study" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/cbhlab_logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Canadian Multi-Ethnic Research on Aging Study (CAMERA) from the Cognitive Brain Health Lab at the Sunnybrook Research Institute. CAMERA is a longitudinal study investigating risk and protective factors for dementia in individuals who identify as East Asian and South Asian, two of Canada's largest minority ethnic groups." # Site description and default description, also used in jekyll-seo-tag
-url: "https://cbhlab.github.io/camera-study" # Site url, also used in jekyll-seo-tag
-baseurl: "https://cbhlab.github.io/camera-study"
+url: "https://camerastudy.github.io" # Site url, also used in jekyll-seo-tag
+baseurl: "https://camerastudy.github.io"
 email: "cbhlab@sunnybrook.ca"
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
@@ -108,7 +108,7 @@ navigation_header:
 - title: Home
   url: /
 - title: About
-  url: /about/index.md/
+  url: /docs/about.md/
 - title: Contact
   url: /docs/contact.md/
 - title: Participate
