@@ -1,19 +1,18 @@
 ---
 layout: page
-title: | 
-  ## Study Summary 
 feature_text: |
-  ## CAMERA Study Information
+  # Study Information
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 
+## Summary
 Principle Investigator: Dr. Jennifer Rabin<br/>
 Full Study Title: Investigating risk and protective factors for dementia in a multi-ethnic cohort<br/>
 Target Age Group: 55-85<br/>
 Target Population: Healthy volunteers<br/>
 Location of Study: Sunnybrook Health Sciences Centre, Bayview Campus, Toronto, ON<br/>
 <br/>
-## Study Description
+## Description
 The aim of the CAMERA study is to better understand whether certain lifestyle factors, such as physical activity, are 
 related to early changes in memory and thinking abilities in older adults. We are especially interested in enrolling 
 individuals who identify as being of East Asian or South Asian descent, because there is a lack of research on brain 
@@ -23,17 +22,15 @@ health on these individuals in Canada.
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre 1-2 times per year for 5 years. 
 During the study visits, participants will complete:
 <ul>
-  <li>tasks assessing your memory and thinking
-  <li>questionnaires about your background and health
-  <li>a fasting blood draw
-  <li>a brain MRI scan
-  <li>a vital signs assessment (blood pressure, height, weight)
-  <li>a short walking and balance assessment
+    <li>tasks assessing your memory and thinking
+    <li>questionnaires about your background and health
+    <li>a fasting blood draw
+    <li>a brain MRI scan
+    <li>a vital signs assessment (blood pressure, height, weight)
+    <li>a short walking and balance assessment
 </ul>
 Each visit will last 4-5 hours. In between visits, you may be asked to wear a wrist watch-like device which tracks your
 physical movement for up to 2 weeks.
-
-
 <!---
 
 ##### Heading 5
