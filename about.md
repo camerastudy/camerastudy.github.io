@@ -5,7 +5,6 @@ feature_text: |
   # Study Information
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
-## Summary
 Principle Investigator: Dr. Jennifer Rabin<br/>
 Target Age Group: 55-85<br/>
 Target Population: Healthy volunteers<br/>
@@ -21,9 +20,10 @@ health on these individuals in Canada.
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1-2 times per year for 5 years</strong>. 
 During the study visits, participants will complete:
 
-* tasks assessing your memory and thinking
-* questionnaires about your background and health
-* a fasting blood draw<li>a brain MRI scan
+    * tasks assessing your memory and thinking
+    * questionnaires about your background and health
+* a fasting blood draw
+* a brain MRI scan
 * a vital signs assessment (blood pressure, height, weight)
 * a short walking and balance assessment
 
@@ -34,7 +34,7 @@ physical movement for up to 2 weeks.
 CAMERA is generously funded by:
 <br/>
 <ul class="" style="display: flex; align-items: center; justify-content: center;">
-  <img src="/assets/funding/cihr_logo.jpg" width="200" hspace="100">
+  <img src="/assets/funding/cihr_logo.jpg" width="200" hspace="150">
   <img src="/assets/funding/as_logo.jpg" width="200" hspace="100">
 </ul>
 
