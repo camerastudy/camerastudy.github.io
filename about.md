@@ -17,7 +17,7 @@ related to early changes in memory and thinking abilities in older adults. We ar
 individuals who identify as being of East Asian or South Asian descent, because there is a lack of research on brain 
 health on these individuals in Canada. 
 <br/>
-## Participant's Role
+## Participant Requirements
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1-2 times per year for 5 years</strong>. 
 During the study visits, participants will complete:
 
