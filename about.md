@@ -5,6 +5,7 @@ feature_text: |
   # Study Information
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
+## Summary
 Principle Investigator: Dr. Jennifer Rabin<br/>
 Target Age Group: 55-85<br/>
 Target Population: Healthy volunteers<br/>
@@ -19,7 +20,7 @@ health on these individuals in Canada.
 ## Participant Requirements
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1-2 times per year for 5 years</strong>. 
 During the study visits, participants will complete:
-<ul class="" style="margin-left:20px">
+<ul class="" style="margin-left:40px">
   <li>tasks assessing your memory and thinking</li>
   <li>questionnaires about your background and health</li>
   <li>a fasting blood draw</li>
