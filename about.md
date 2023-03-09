@@ -9,7 +9,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 Principle Investigator: Dr. Jennifer Rabin<br/>
 Target Age Group: 55-85<br/>
 Target Population: Healthy volunteers<br/>
-Location: Sunnybrook Health Sciences Centre, Bayview Campus, Toronto, ON<br/>
+Location: Sunnybrook Health Sciences Centre, Bayview Campus, Toronto, ON
 <br/>
 ## Description
 The aim of the CAMERA study is to better understand whether certain lifestyle factors, such as physical activity, are 
@@ -20,13 +20,13 @@ health on these individuals in Canada.
 ## Participant's Role
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1-2 times per year for 5 years</strong>. 
 During the study visits, participants will complete:
-<ul>
-    <li>tasks assessing your memory and thinking</li>
-    <li>questionnaires about your background and health</li>
-    <li>a fasting blood draw<li>a brain MRI scan</li>
-    <li>a vital signs assessment (blood pressure, height, weight)</li>
-    <li>a short walking and balance assessment</li>
-</ul>
+
+* tasks assessing your memory and thinking
+* questionnaires about your background and health
+* a fasting blood draw<li>a brain MRI scan
+* a vital signs assessment (blood pressure, height, weight)
+* a short walking and balance assessment
+
 Each visit will last 4-5 hours. In between visits, you may be asked to wear a wrist watch-like device which tracks your
 physical movement for up to 2 weeks.
 <br/>
@@ -37,6 +37,7 @@ CAMERA is generously funded by:
   <img src="/assets/funding/cihr_logo.jpg" width="200" hspace="100">
   <img src="/assets/funding/as_logo.jpg" width="200" hspace="100">
 </ul>
+
 <!---
 
 ##### Heading 5
