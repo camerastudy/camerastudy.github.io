@@ -12,7 +12,7 @@
   {% assign thanks_url = "/thanks/" %}
 {% endif %}
 
-<form class="form  form--{{ name_id }}" method="post" name="{{ name }}" action="{{ thanks_url }}"
+<form class="form  form--{{ name_id }}" method="post" name="{{ name }}" action="https://formspree.io/f/xqkoldrr"
   {% if include.netlify_form %}
     netlify-honeypot="bot-field"
     netlify
@@ -47,7 +47,7 @@
     var email = "{{ site.email | split: "" | reverse | join: "" }}";
     var unraveledEmail = email.split("").reverse().join("");
     var form = document.querySelector(".form--{{ name_id }}");
-      form.setAttribute("action", "https://formspree.io/f/xqkoldrr"); // + unraveledEmail);
+      form.setAttribute("action", "https://formspree.io/f/xqkoldrr" + unraveledEmail);
   </script>
   <noscript>Please enable JavaScript to use the form.</noscript>
 {% endunless %}
