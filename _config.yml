@@ -105,9 +105,9 @@ navigation_header:
 - title: About
   url: /about/
 - title: Contact
-  url: /docs/contact.md/
+  url: /contact/
 - title: Participate
-  url: /doc/participate.md/
+  url: /participate/
 
 navigation_footer:
 - title: Cognitive Brain Health Lab
