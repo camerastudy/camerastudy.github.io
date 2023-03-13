@@ -6,10 +6,10 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 ## Summary
-<b>Principle Investigator: Dr. Jennifer Rabin</b><br/>
-<b>Target Age Group: 55-85</b><br/>
-<b>Target Population: Healthy volunteers</b><br/>
-<b>Location: Sunnybrook Health Sciences Centre, Bayview Campus, Toronto, ON</b>
+Principle Investigator: Dr. Jennifer Rabin<br/>
+Target Age Group: 55-85<br/>
+Target Population: Healthy volunteers<br/>
+Location: Sunnybrook Health Sciences Centre, Bayview Campus, Toronto, ON
 <br/>
 ## Description
 The aim of the CAMERA study is to better understand whether certain genetic and lifestyle factors (e.g., physical activity, 
