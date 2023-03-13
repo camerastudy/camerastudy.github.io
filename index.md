@@ -13,5 +13,6 @@ individuals who identify as being of East Asian and South Asian descent. CAMERA 
 [Cognitive Brain Health Lab](https://cbhlab.github.io) at the [Sunnybrook Research Insitute](https://sunnybrook.ca/research/) 
 in Toronto, Ontario. 
 
-###### For more information about the study, please [click here](/about.md)<br/>
-###### If you are interested in participating in the study, please visit the [participate](/participate.md) page.
+<em>For more information about the study, please [click here](/about.md)</em>
+<br/><br/>
+<em>If you are interested in participating in the study, please visit the [participate](/participate.md) page.</em>

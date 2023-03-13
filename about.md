@@ -6,10 +6,10 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 ## Summary
-###### Principle Investigator: Dr. Jennifer Rabin<br/>
-###### Target Age Group: 55-85<br/>
-###### Target Population: Healthy volunteers<br/>
-###### Location: Sunnybrook Health Sciences Centre, Bayview Campus, Toronto, ON
+<b>Principle Investigator: Dr. Jennifer Rabin</b><br/>
+<b>Target Age Group: 55-85</b><br/>
+<b>Target Population: Healthy volunteers</b><br/>
+<b>Location: Sunnybrook Health Sciences Centre, Bayview Campus, Toronto, ON</b>
 <br/>
 ## Description
 The aim of the CAMERA study is to better understand whether certain genetic and lifestyle factors (e.g., physical activity, 
@@ -22,7 +22,7 @@ prevention/intervention strategies for dementia in Canada’s diverse communitie
 ## Participant Requirements
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1-2 times per year for 5 years</strong>. 
 During the study visits, participants will complete:
-<ul class="" style="margin-left:25px">
+<ul class="" style="margin-left:15px">
   <li>tasks assessing your memory and thinking</li>
   <li>questionnaires about your background and health</li>
   <li>a fasting blood draw</li>
