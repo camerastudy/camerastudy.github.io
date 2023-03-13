@@ -24,4 +24,4 @@ of participation.
 If you are interested in participating or if you would like more information about CAMERA, please drop us line by completing
 the contact form below.
 
-{% include site-form.html %}
+{% raw %} {% include site-form.html %} {% endraw %}
