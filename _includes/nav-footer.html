@@ -1,6 +1,6 @@
 {% if site.navigation_footer %}
 <nav class="nav  nav--footer">
-  <ul class="list list--nav">
+  <ul class="list list--nav" style="padding-right:30px">
     {% for item in site.navigation_footer %}
       {% if item.url contains '://' %}
         {% assign url = item.url %}
