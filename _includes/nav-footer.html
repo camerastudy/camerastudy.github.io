@@ -10,9 +10,9 @@
         {% assign url = item.url | relative_url %}
       {% endif %}
 
-      <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}">{{ item.title }}</a>
-      </li>
+      <!---<li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
+        <a href="{{ url }}">{{ item.title }}</a>--->
+      <li><a href="{{ url }}"<img src="/assets/mbp.png" width="300" hspace="50"></a></li>
     {% endfor %}
   </ul>
 </nav>
