@@ -110,7 +110,7 @@ navigation_header:
   url: /participate/
 
 navigation_footer:
-- title: Cognitive Brain Health Lab
+- title: '/assets/logos/cbhlab_logo_wordmark.png'
   url: https://cbhlab.github.io
 
 # Load custom fonts from fonts.google.com etc
