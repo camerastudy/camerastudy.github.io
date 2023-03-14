@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 ## Summary
 Principle Investigator: Dr. Jennifer Rabin<br/>
-Target Age Group: 55-85<br/>
+Target Age Group: 55–85<br/>
 Target Population: Healthy volunteers<br/>
 Location: Sunnybrook Health Sciences Centre, Bayview Campus, Toronto, ON
 <br/>
@@ -20,7 +20,7 @@ to be protective against detrimental changes in memory, brain function, and bloo
 prevention/intervention strategies for dementia in Canada’s diverse communities. 
 <br/>
 ## Participant Requirements
-As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1-2 times per year for 5 years</strong>. 
+As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1–2 times per year for 5 years</strong>. 
 During the study visits, participants will complete:
 <ul class="" style="margin-left:15px">
   <li>tasks assessing your memory and thinking</li>
