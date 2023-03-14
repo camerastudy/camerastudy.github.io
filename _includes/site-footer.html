@@ -1,9 +1,15 @@
 <footer class="footer">
   <div class="container">
-    <div class="copyright  typeset">
-      <small class="small">&copy; {{ site.title }} {{ site.time | date: '%Y' }}</small>
-    </div>
+    {% if site.navigation_footer}
+    <ul class="footer logos" style="display: flex; align-items: center; justify-content: center;">
+      <li><img src="/assets/logos/sri.png" width="300" hspace="50"></li>
+      <li><img src="/assets/logos/cbhlab_logo_wordmark.png" width="200" hspace="50"></li>
+    </ul>
 
-    {% include nav-footer.html %}
+    <!---<div class="copyright  typeset">
+      <small class="small">&copy; {{ site.title }} {{ site.time | date: '%Y' }}</small>
+    </div>--->
+
+    <!---{% include nav-footer.html %}--->
   </div>
 </footer>

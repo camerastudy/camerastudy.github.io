@@ -23,14 +23,14 @@ prevention/intervention strategies for dementia in Canada’s diverse communitie
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1–2 times per year for 5 years</strong>. 
 During the study visits, participants will complete:
 <ul class="" style="margin-left:15px">
-  <li>tasks assessing your memory and thinking</li>
-  <li>questionnaires about your background and health</li>
+  <li>tasks assessing memory and thinking</li>
+  <li>questionnaires about background and health</li>
   <li>a fasting blood draw</li>
   <li>a brain MRI scan</li>
   <li>a vital signs assessment (blood pressure, height, weight)</li>
   <li>a short walking and balance assessment</li>
 </ul>
-Each visit will last 4-5 hours. In between visits, you will be asked to wear a wrist watch-like device, which tracks your
+Each visit will last 4–5 hours. In between visits, you will be asked to wear a wrist watch-like device, which tracks your
 physical activity, for up to 2 weeks.
 <br/>
 ## Funding
