@@ -11,7 +11,7 @@ Target Population: Healthy volunteers<br/>
 Location: Sunnybrook Health Sciences Centre, Bayview Campus, Toronto, ON
 <br/>
 ## Description
-The aim of the CAMERA study is to better understand whether certain genetic and lifestyle factors (e.g., physical activity, 
+The aim of the CAMERA study is to better understand whether certain health and lifestyle factors (e.g., physical activity, 
 high blood pressure, hearing ability) are related to early changes in memory, brain function, and blood markers in older adults. 
 We are particularly interested in enrolling adults who identify as being of East Asian or South Asian descent since little
 research has focused on risk and protective factors for dementia in these groups. If certain lifestyle factors are found 
