@@ -18,6 +18,7 @@ lifestyle factors are found to be protective against detrimental changes in memo
 improved prevention/intervention strategies for dementia in Canada’s diverse communities. 
 <br/>
 ## Eligibility
+
 <br/>
 ## Study Requirements
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1–2 times per year for 5 years</strong>. 
