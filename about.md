@@ -18,7 +18,10 @@ lifestyle factors are found to be protective against detrimental changes in memo
 improved prevention/intervention strategies for dementia in Canada’s diverse communities. 
 <br/>
 ## Eligibility
-
+We are enrolling adults, aged 55–85, who are relatively healthly and identify as East Asian, South Asian, or White. To be
+eligible, you must not have a formal diagnosis of mild cognitive impairment, dementia, or Alzheimer's disease. If you are
+unsure of whether you qualify, please reach out to us; we can provide you with more information about the eligibility
+criteria for CAMERA. 
 <br/>
 ## Study Requirements
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1–2 times per year for 5 years</strong>. 
@@ -34,7 +37,9 @@ During the study visits, participants will complete:
 Each visit will last 4–5 hours. In between visits, you will be asked to wear a wrist watch-like device, which tracks your
 physical activity, for up to 2 weeks.
 <br/><br/>
-<em>If you are interested in participating in the study, please visit the [participate](/participate.md) page.</em>
+
+<em>If you are interested in participating in CAMERA, please visit the [participate](/participate.md) page.</em>
+
 ## Funding
 CAMERA is generously funded by:
 <br/>
