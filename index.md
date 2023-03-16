@@ -11,7 +11,7 @@ The <b>CA</b>nadian <B>M</b>ulti-<b>E</b>thnic <b>R</b>esearch on <b>A</b>ging (
 study investigating risk and protective factors for dementia in two of Canada's largest minority ethnic groups: 
 individuals who identify as being of East Asian and South Asian descent. CAMERA is run by the 
 [Cognitive Brain Health Lab](https://cbhlab.github.io) at the [Sunnybrook Research Insitute](https://sunnybrook.ca/research/) 
-in Toronto, Ontario. 
+in Toronto, ON. 
 
 <em>For more information about the study, please [click here](/about.md)</em>
 <br/><br/>
