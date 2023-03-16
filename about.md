@@ -7,16 +7,14 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 ## Summary
 Target Age Group: 55–85<br/>
-Target Population: Healthy volunteers<br/>
+Target Population: East Asian, South Asian, White Participants<br/>
 Location: Sunnybrook Health Sciences Centre, Bayview Campus, Toronto, ON
 <br/>
 ## Description
 The aim of the CAMERA study is to better understand whether certain health and lifestyle factors (e.g., physical activity, 
-high blood pressure, hearing ability) are related to early changes in memory, brain function, and blood markers in older adults. 
-We are particularly interested in enrolling adults who identify as being of East Asian or South Asian descent since little
-research has focused on risk and protective factors for dementia in these groups. If certain lifestyle factors are found 
-to be protective against detrimental changes in memory, brain function, and blood markers, it may lead to improved 
-prevention/intervention strategies for dementia in Canada’s diverse communities. 
+high blood pressure, hearing ability) are related to early changes in memory, and brain function in older adults. 
+If certain lifestyle factors are found to be protective against detrimental changes in memory and brain function, it may 
+lead to improved prevention/intervention strategies for dementia in Canada’s diverse communities. 
 <br/>
 ## Participant Requirements
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1–2 times per year for 5 years</strong>. 
