@@ -17,7 +17,7 @@ high blood pressure, hearing ability) are related to early changes in memory and
 lifestyle factors are found to be protective against detrimental changes in memory and brain function, it may lead to 
 improved prevention/intervention strategies for dementia in Canada’s diverse communities. 
 <br/>
-## Participant Requirements
+## Study Requirements
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1–2 times per year for 5 years</strong>. 
 During the study visits, participants will complete:
 <ul class="" style="margin-left:15px">
