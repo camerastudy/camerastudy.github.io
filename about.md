@@ -6,7 +6,6 @@ feature_text: |
 feature_image: "https://picsum.photos/1300/400?image=989"
 ---
 ## Summary
-Principle Investigator: Dr. Jennifer Rabin<br/>
 Target Age Group: 55–85<br/>
 Target Population: Healthy volunteers<br/>
 Location: Sunnybrook Health Sciences Centre, Bayview Campus, Toronto, ON
@@ -32,7 +31,8 @@ During the study visits, participants will complete:
 </ul>
 Each visit will last 4–5 hours. In between visits, you will be asked to wear a wrist watch-like device, which tracks your
 physical activity, for up to 2 weeks.
-<br/>
+<br/><br/>
+<em>If you are interested in participating in the study, please visit the [participate](/participate.md) page.</em>
 ## Funding
 CAMERA is generously funded by:
 <br/>
