@@ -19,7 +19,7 @@ improved prevention/intervention strategies for dementia in Canada’s diverse c
 <br/>
 ## Eligibility
 We are enrolling adults, aged 55–85, who are relatively healthly and identify as East Asian, South Asian, or White. To be
-eligible, you must not have a formal diagnosis of mild cognitive impairment, dementia, or Alzheimer's disease. If you are
+eligible, you must have <strong>no diagnosis of mild cognitive impairment, dementia, or Alzheimer's disease</strong>. If you are
 unsure of whether you qualify, please reach out to us; we can provide you with more information about the eligibility
 criteria for CAMERA. 
 <br/>
