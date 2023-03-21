@@ -16,8 +16,8 @@ this roughly 20 minute phone call, we will ask you some questions about your bac
 to participate. After the phone call, the study team will review your answers to determine if you meet the eligibility criteria.
 <br/><br/>
 We are always looking for additional participants. If you know someone who may be interested in participating, and who may
-qualify for the study, please let them know about our study. We are grateful to everyone who is able and willing to spread
-the word about our research.
+qualify, please let them know about our study. We are grateful to everyone who is able and willing to spread the word about 
+our research!
 
 ## Get In Touch
 If you are interested in participating or if you would like more information about CAMERA, please drop us a line by 
