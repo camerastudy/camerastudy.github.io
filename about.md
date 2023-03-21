@@ -36,7 +36,7 @@ During the study visits, participants will complete:
 </ul>
 Each visit will last 4–5 hours. In between visits, you will be asked to wear a wrist watch-like device, which tracks your
 physical activity, for up to 2 weeks.
-<br/><br/>
+<br/>
 
 <em>If you are interested in participating in CAMERA, please visit the [participate](/participate.md) page.</em>
 

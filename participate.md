@@ -3,7 +3,7 @@ layout: page
 Title: Participate
 feature_text: |
   # Participate
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "/assets/bg.jpg"
 ---
 ## How To Participate
 Thank you for your interest in participating in CAMERA! If you haven't done so already, please head over to the 
