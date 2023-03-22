@@ -13,7 +13,7 @@ If you would like to participate in CAMERA and feel that you qualify for the stu
 with us by email. You can use the contact form below or email us directly at <a href="mailto:cbhlab@sunnybrook.ca">cbhlab@sunnybrook.ca</a>.
 We will be in touch as soon as possible to set up a time to speak over the phone with you about your eligibility. During 
 this roughly 20 minute phone call, we will ask you some questions about your background to determine if you are eligible 
-to participate. After the phone call, the study team will review your answers to determine if you meet the eligibility criteria.
+to participate.
 <br/><br/>
 We are always looking for additional participants. If you know someone who may be interested in participating, and who may
 qualify, please let them know about our study. We are grateful to everyone who is able and willing to spread the word about 
