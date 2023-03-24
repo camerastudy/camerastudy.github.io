@@ -23,6 +23,10 @@ eligible, you must have <strong>no diagnosis of mild cognitive impairment, demen
 unsure of whether you qualify, please reach out to us; we can provide you with more information about the eligibility
 criteria for CAMERA. 
 <br/>
+## Compensation
+Participants will be compensated $50 for each in-person study visit and will be provided with a snack voucher and parking 
+pass for Sunnybrook Health Sciences Centre.
+<br/>
 ## Study Requirements
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1–2 times per year for 5 years</strong>. 
 During the study visits, participants will complete:
