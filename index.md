@@ -12,7 +12,6 @@ study investigating risk and protective factors for dementia in three of Canada'
 identify as East Asian, South Asian, and White.<br/>
 
 > Help us better understand aging and dementia through a more equitable lens that captures Canadians from different backgrounds
-<br/>
 
 CAMERA is run by the [Cognitive Brain Health Lab](https://cbhlab.github.io) at the [Sunnybrook Research Insitute](https://sunnybrook.ca/research/) 
 in Toronto, ON.<br/>
