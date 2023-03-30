@@ -3,7 +3,7 @@ layout: page
 Title: About
 feature_text: |
   # Study Information
-feature_image: "/assets/bg.jpg"
+feature_image: "/assets/about_bg_wide_2000px.jpg"
 ---
 ## Summary
 Target Population: East Asian, South Asian, White Participants<br/>
