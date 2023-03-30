@@ -18,7 +18,7 @@ lifestyle factors are found to be protective against detrimental changes in memo
 improved prevention/intervention strategies for dementia in Canada’s diverse communities. 
 <br/>
 ## Eligibility
-We are enrolling adults, aged 55–85, who are relatively healthly and identify as East Asian, South Asian, or White. To be
+We are enrolling adults, aged 55–85, who are relatively healthy and identify as East Asian, South Asian, or White. To be
 eligible, you must have <strong>no diagnosis of mild cognitive impairment, dementia, or Alzheimer's disease</strong>. If you are
 unsure of whether you qualify, please reach out to us; we can provide you with more information about the eligibility
 criteria for CAMERA. 
