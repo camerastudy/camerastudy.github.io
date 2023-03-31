@@ -3,7 +3,7 @@ title: Welcome
 feature_text: |
   # CAMERA Study
   #### **CA**nadian **M**ulti-**E**thnic **R**esearch on **A**ging 
-feature_image: "/assets/index_bg_wide.jpg"
+feature_image: "/assets/bg_imgs/index_bg_wide.jpg"
 excerpt: "CAMERA is a longitudinal study investigating risk and protective factors for dementia in three of Canada's largest ethnic groups: individuals who identify as East Asian, South Asian, and White."
 ---
 ## Welcome
