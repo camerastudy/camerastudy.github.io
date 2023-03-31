@@ -3,7 +3,7 @@ layout: page
 Title: Contact
 feature_text: |
   # Contact
-feature_image: "/assets/bg.jpg"
+feature_image: 
 ---
 <b>Cognitive Brain Health Lab</b><br/>
 <b>2075 Bayview Avenue, Toronto, ON, M4N 3M5</b><br/>
