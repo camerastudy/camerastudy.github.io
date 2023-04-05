@@ -3,7 +3,7 @@ layout: page
 Title: About
 feature_text: |
   # Study Information
-feature_image: 
+feature_image: "/assets/bg_imgs/about_bg_wide.jpg"
 ---
 ## Summary
 Target Population: East Asian, South Asian, White Participants<br/>
@@ -24,7 +24,7 @@ unsure of whether you qualify, please reach out to us; we can provide you with m
 criteria for CAMERA. 
 <br/>
 ## Compensation
-Participants will be compensated $50 for each in-person study visit and will be provided with a snack voucher and parking 
+Participants will be compensated $50 for each in-person study visit, and will be provided with a snack voucher and parking 
 pass for Sunnybrook Health Sciences Centre.
 <br/>
 ## Study Requirements

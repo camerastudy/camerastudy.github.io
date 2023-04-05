@@ -3,7 +3,7 @@ layout: page
 Title: Participate
 feature_text: |
   # Participate
-feature_image: 
+feature_image: "/assets/bg_imgs/participate_bg_wide.jpg"
 ---
 ## How To Participate
 Thank you for your interest in participating in CAMERA! If you haven't done so already, please head over to the 

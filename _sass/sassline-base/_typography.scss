@@ -270,8 +270,10 @@ a {
   blockquote {
 
     p {
-      border-left: 0.15rem solid $linkColour;
+      border-left: 0.15rem solid $captionColour;
       font-style: map-get($bodytype, italic);
+      font-size: 24pt;
+      color: $linkColour;
       padding-left: 1rem;
 
       // Add spacing below blockquote paragraphs to align to baseline grid.
