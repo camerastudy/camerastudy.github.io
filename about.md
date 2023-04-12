@@ -6,7 +6,7 @@ feature_text: |
 feature_image: "/assets/bg_imgs/about_bg_wide.jpg"
 ---
 ## Summary
-Target Population: East Asian, South Asian, White Participants<br/>
+Target Population: Individuals who identify as East Asian, South Asian, or White<br/>
 Target Age Group: 55–85<br/>
 Location: Sunnybrook Health Sciences Centre, Bayview Campus, Toronto, ON
 Duration of Enrolment: 5 Years
@@ -31,7 +31,7 @@ pass for Sunnybrook Health Sciences Centre.
 As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1–2 times per year for 5 years</strong>. 
 During the study visits, participants will complete:
 <ul class="" style="margin-left:15px">
-  <li>Tasks assessing memory and thinking</li>
+  <li>Tasks assessing memory and thinking abilities</li>
   <li>Questionnaires about background and health</li>
   <li>A fasting blood draw</li>
   <li>A brain MRI scan</li>
