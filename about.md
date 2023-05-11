@@ -28,7 +28,7 @@ Participants will be compensated $50 for each in-person study visit, and will be
 pass for Sunnybrook Health Sciences Centre.
 <br/>
 ## Study Requirements
-As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>1–2 times per year for 5 years</strong>. 
+As part of the study, participants are asked to come to Sunnybrook Health Sciences Centre <strong>2 times every 2 years for 5 years</strong>. 
 During the study visits, participants will complete:
 <ul class="" style="margin-left:15px">
   <li>Tasks assessing memory and thinking abilities</li>
